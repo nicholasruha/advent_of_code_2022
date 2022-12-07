@@ -1,0 +1,2 @@
+// Watches and checks types
+cargo watch -x check
