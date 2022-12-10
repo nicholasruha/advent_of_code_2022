@@ -1,2 +1,4 @@
 // Watches and checks types
 cargo watch -x check
+
+cargo run -p day1
